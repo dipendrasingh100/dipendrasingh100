@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipendra</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">I'm a passionate full-stack developer with a deep love for both crafting seamless user experiences and unravelling insights from data through the power of Machine Learning and Data Science</h3>
 
 - 💬 Ask me about **Python, JavaScript and ML.**
 - 🔭 I’m currently working on [Blog app](https://dipendra-blog-app.netlify.com)
