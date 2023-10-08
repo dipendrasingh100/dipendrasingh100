@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate full-stack developer with a deep love for both crafting seamless user experiences and unravelling insights from data through the power of Machine Learning and Data Science</h3>
 
 - 💬 Ask me about **Python, JavaScript and ML.**
-- 🔭 I’m currently working on [E-commerce]()
+- 🔭 I’m currently working on [E-commerce](https://github.com/dipendrasingh100/CARTFORUS/)
 - 📄 Know about my [experiences!](https://dipfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
